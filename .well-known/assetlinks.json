@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.tani.app",
-      "sha256_cert_fingerprints": ["SIGNING_CERT_SHA256_GOES_HERE"]
+      "sha256_cert_fingerprints": ["FA:41:68:EF:E6:B0:83:DE:22:2C:FA:4D:DE:81:0F:9E:77:13:9B:F7:6B:01:FA:86:8E:FE:15:91:58:6F:BF:52"]
     }
   }
 ]
