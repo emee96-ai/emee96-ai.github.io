@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tani.app",
+      "sha256_cert_fingerprints": ["SIGNING_CERT_SHA256_GOES_HERE"]
+    }
+  }
+]
